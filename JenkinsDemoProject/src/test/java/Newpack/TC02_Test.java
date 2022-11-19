@@ -11,6 +11,6 @@ public class TC02_Test {
 public void demo2() {
 	WebDriverManager.chromedriver().setup();
 	WebDriver driver=new ChromeDriver();
-	driver.get("https://flipkart.com");
+	driver.get("https://lenskart.com");
 }
 }
